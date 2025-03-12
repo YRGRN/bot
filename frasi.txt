@@ -1,0 +1,74 @@
+Ottica geometrica.
+Equazione di Fresnel nel caso isotropo.
+Vettore di Poynting ottica geometrica.
+Raggi ottici.
+Cammino ottico.
+Fronti d'onda.
+Leggi di riflessione e rifrazione.
+Curvatura dei raggi.
+Teorema di Poynting in ottica geometrica.
+
+
+Indici di rifrazione nel caso anisotropo.
+Problema elettromagnetico in ottica dei cristalli.
+Equazione di Fresnel in ottica dei cristalli.
+Superficie di Fresnel per cristallo biassico.
+Superficie di Fresnel per cristallo uniassico.
+Ellissoide degli indici.
+Raggi in forma hamiltoniana e relazione con la superficie di Fresnel.
+
+
+Lamina a quarto d'onda.
+Lamina a mezz'onda.
+Prisma di Glan.
+Prisma di Sénarmont.
+Prisma di Rochon.
+Prisma di Wollaston.
+Prisma di Nicol.
+
+
+Equazione di Fresnel esplicita.
+Matrici di riflessione e trasmissione.
+Tracciamento dei raggi in cristalli uniassici.
+
+
+Effetto elettro-ottico Pockels e Kerr.
+Tensore elettro-ottico.
+Retarder variabile in KDP.
+Interferenza.
+Interferometro di Mach-Zehnder.
+Interferometro di Michelson.
+Modulatore d'ampiezza da un retarder.
+Modulatori elettro-ottici integrati in LiNbO3.
+
+
+Perdite in mezzi anisotropi (identità di Poynting).
+Simmetria magnetica di ε.
+Effetto magneto-ottico lineare.
+Conseguenze sulla polarizzazione dell'effetto magneto-ottico lineare.
+Effetto Faraday.
+
+
+Rotatore di Faraday.
+Isolatore con polarizzatori + FR.
+Isolatore con wedge di BC e compensazione degli sfasamenti.
+GRIN.
+Isolatore walk-off.
+Isolatore in riflessione.
+Isolatore interferometrico.
+Add/Drop MUX (DWDM) cin circolatori + FBG.
+Linea di trasmissione bidirezionale con circolatori.
+Circolatore con ingresso polarizzato ed estensione.
+Rotatore non reciproco con FR + HWP.
+Circolatore a 4 porte con FR + HWP.
+Circolatore walk-off con FR + HWP + BC.
+Circolatore con PBS + BC.
+Circolatore con FR + HWP + BC + prisma di Wollaston.
+
+
+Raggi guidati e radiativi in una slab dielettrica step-index.
+Dispersione e tempo di transito.
+Raggi in una slab dielettrica con profilo d'indice parabolico.
+Raggi in una slab dielettrica con profilo a secante iperbolica.
+Approccio modale per portanti dielettriche step-index.
+Illuminazione dal cladding con tunnelling ottico.
